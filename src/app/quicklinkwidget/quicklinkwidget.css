@@ -1,0 +1,24 @@
+.quick-link-widget {
+    text-align: center;
+    position: fixed;
+    left: 50%;
+    bottom: 10px;
+    transform: translateX(-50%);
+    color: #fff;
+}
+
+.quick-link-widget ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.quick-link-widget ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.quick-link-widget ul li a {
+    color: #fff;
+    text-decoration: none;
+}

@@ -1,0 +1,26 @@
+ .widget-container {
+     text-align: center;
+     position: fixed;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, calc(-50% - 3rem));
+     color: #fff;
+ }
+
+ .widget-container h1 {
+     font-size: 7.5rem;
+     margin: 0;
+     padding: 0;
+ }
+
+ .widget-container hr {
+     width: 150%;
+     margin-left: -25%;
+     border: 1px solid #fff;
+ }
+
+ .widget-container h2 {
+     font-size: 2.5rem;
+     margin: 0;
+     padding: 0;
+ }

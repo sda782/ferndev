@@ -1,3 +1,6 @@
-html {
+html,
+body {
     font-family: 'Bitter';
+    margin: 0;
+    padding: 0;
 }
